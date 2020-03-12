@@ -1,6 +1,6 @@
 //input referrer id
 //Copy User ID From: Setting/More Setting/Diagnostic/ID
-const referrer = "YOUR_AFF_ID";
+const referrer = "01209334-f1f7-477c-b7e0-7a63cca1fbeb";
 const timeToLoop = 10; 
 const retryTimes = 5;
 // time sleep, currently rate limit might be apply to per min per ip
